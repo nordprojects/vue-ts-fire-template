@@ -1,5 +1,7 @@
 # Project name
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nordprojects/vue-ts-fire-template.svg)](https://greenkeeper.io/)
+
 ## Development
 
 Use VS Code for development.
